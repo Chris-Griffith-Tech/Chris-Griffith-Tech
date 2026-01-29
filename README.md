@@ -1,19 +1,26 @@
-Hi, I'm Chris 👋
-Cybersecurity Enthusiast | IT Professional | Lifelong Learner
+## Hi, I'm Chris 👋
 
-After 12+ years in technical management and fuel system maintenance, I am pivoting into the world of Cybersecurity and Penetration Testing. I specialize in bridging the gap between hands-on mechanical troubleshooting and digital defense.
+After 12+ years in technical management, I am pivoting into **Cybersecurity and Penetration Testing**. 
 
-🛡️ Currently Learning: Kali Linux, Ethical Hacking, and Network Security.
+- 🛡️ **Currently Learning:** Kali Linux and Network Security.
+- 🏗️ **Home Lab:** Dedicated environment for vulnerability assessment.
+- 🎯 **Goal:** Transitioning into a SOC Analyst or Junior Pentester role.
 
-🏗️ Home Lab: Currently running a dedicated environment for penetration testing and vulnerability assessment.
+### 🛠 Technical Toolbox
 
-📜 Certifications: Coursera Professional Certificates in AI, Project Management, and Business Analysis.
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Security & IT** | Kali Linux, Nmap, Vulnerability Assessment |
+| **Management** | Team Leadership (12+ yrs), Project Management |
+| **Certifications** | AI, Project Management, Business Analysis (Coursera) |
+| **Platforms** | Windows, Linux, GitHub |
 
-🎯 Goal: Transitioning into a SOC Analyst or Junior Pentester role.
+### 📜 Professional Certifications
+*Verified via Coursera*
 
-Skills & Tools
-OS: Windows, Linux (Kali, Ubuntu)
-
-Security: Network Scanning, Vulnerability Assessment
-
-Soft Skills: Project Management, Team Leadership, Technical Documentation
+* **Google Project Management Professional Certificate**
+  * Focus: Agile Methodology, Project Documentation, Stakeholder Management.
+* **Google Business Intelligence / Analysis**
+  * Focus: Data-driven decision making and organizational growth.
+* **Artificial Intelligence & Generative AI Specialist**
+  * Focus: Leveraging AI models for technical efficiency and automation.---
